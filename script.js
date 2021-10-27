@@ -1,6 +1,6 @@
 console.log('Hi I am alive')
 
-document.write ("<h1>Conditionals Demo</h1>")
+document.write ("<h1>Conditionals and Operators</h1>")
 var mynumb = prompt('Choose a number between 1 and 20')
 
 if(20>mynumb){
